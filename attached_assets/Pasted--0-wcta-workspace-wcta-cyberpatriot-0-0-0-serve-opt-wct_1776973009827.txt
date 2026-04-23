@@ -1,0 +1,24 @@
+
+0|wcta  | > @workspace/wcta-cyberpatriot@0.0.0 serve /opt/wcta/artifacts/wcta-cyberpatriot
+0|wcta  | > vite preview --config vite.config.ts --host 0.0.0.0
+0|wcta  | error when starting preview server:
+0|wcta  | Error: The directory "/opt/wcta/artifacts/wcta-cyberpatriot/dist/public" does not exist. Did you build your project?
+0|wcta  |     at preview (file:///opt/wcta/node_modules/.pnpm/vite@7.3.2_@types+node@25.3.5_jiti@2.6.1_lightningcss@1.31.1_tsx@4.21.0_yaml@2.8.2/node_modules/vite/dist/node/chunks/config.js:35078:200)
+0|wcta  |     at async CAC.<anonymous> (file:///opt/wcta/node_modules/.pnpm/vite@7.3.2_@types+node@25.3.5_jiti@2.6.1_lightningcss@1.31.1_tsx@4.21.0_yaml@2.8.2/node_modules/vite/dist/node/cli.js:669:18)
+0|wcta  |  ELIFECYCLE  Command failed with exit code 1.
+PM2     | App [wcta:0] exited with code [1] via signal [SIGINT]
+PM2     | App [wcta:0] starting in -fork mode-
+PM2     | App [wcta:0] online
+0|wcta  | > @workspace/wcta-cyberpatriot@0.0.0 serve /opt/wcta/artifacts/wcta-cyberpatriot
+0|wcta  | > vite preview --config vite.config.ts --host 0.0.0.0
+0|wcta  | error when starting preview server:
+0|wcta  | Error: The directory "/opt/wcta/artifacts/wcta-cyberpatriot/dist/public" does not exist. Did you build your project?
+0|wcta  |     at preview (file:///opt/wcta/node_modules/.pnpm/vite@7.3.2_@types+node@25.3.5_jiti@2.6.1_lightningcss@1.31.1_tsx@4.21.0_yaml@2.8.2/node_modules/vite/dist/node/chunks/config.js:35078:200)
+0|wcta  |     at async CAC.<anonymous> (file:///opt/wcta/node_modules/.pnpm/vite@7.3.2_@types+node@25.3.5_jiti@2.6.1_lightningcss@1.31.1_tsx@4.21.0_yaml@2.8.2/node_modules/vite/dist/node/cli.js:669:18)
+0|wcta  |  ELIFECYCLE  Command failed with exit code 1.
+PM2     | App [wcta:0] exited with code [1] via signal [SIGINT]
+PM2     | App [wcta:0] starting in -fork mode-
+PM2     | App [wcta:0] online
+0|wcta  | > @workspace/wcta-cyberpatriot@0.0.0 serve /opt/wcta/artifacts/wcta-cyberpatriot
+0|wcta  | > vite preview --config vite.config.ts --host 0.0.0.0
+0|wcta  | error when starting preview server:
