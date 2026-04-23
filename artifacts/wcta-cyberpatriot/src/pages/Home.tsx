@@ -56,7 +56,7 @@ export default function Home() {
       <div className="pointer-events-none fixed inset-0 z-50 bg-[linear-gradient(rgba(18,16,16,0)_50%,rgba(0,0,0,0.25)_50%),linear-gradient(90deg,rgba(255,0,0,0.06),rgba(0,255,0,0.02),rgba(0,0,255,0.06))] bg-[length:100%_4px,3px_100%] opacity-20"></div>
       
       {/* Glitch animation styles */}
-      <style dangerouslySetContents={{__html: \`
+      <style dangerouslySetInnerHTML={{__html: `
         @keyframes blink {
           0%, 100% { opacity: 1; }
           50% { opacity: 0; }
@@ -83,7 +83,7 @@ export default function Home() {
           80% { transform: translate(1px, -1px) }
           100% { transform: translate(0) }
         }
-      \`}} />
+      `}} />
 
       <main className="max-w-4xl mx-auto w-full z-10 space-y-16 pb-20">
         {/* HERO SECTION */}
