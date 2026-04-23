@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "zpChtjRnyG5aW1Nq-pScE"
+uri = "file://artifacts/wcta-cyberpatriot/public/terminal-art.png"
+type = "image"
+title = "Green hacker terminal network art"
